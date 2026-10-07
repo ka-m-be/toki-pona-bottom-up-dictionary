@@ -32,6 +32,10 @@ Dictionary **v7**: 137 words (the 120 words of *pu* and the 17 *nimi ku suli*), 
 - The English and Spanish glosses are **AI-assisted translations** of the German project glosses and need
   review by speakers.
 
+## Try it on github Pages
+
+[https://ka-m-be.github.io/toki-pona-bottom-up-dictionary/](https://ka-m-be.github.io/toki-pona-bottom-up-dictionary/)
+
 ## Run it locally
 
 ```sh
