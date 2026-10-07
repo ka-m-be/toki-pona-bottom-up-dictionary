@@ -1,0 +1,11 @@
+{
+  "name": "toki-pona-bottom-up-dictionary",
+  "private": true,
+  "description": "Static PWA for the toki pona bottom up dictionary. No build step, no dependencies.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/",
+    "check": "node --check js/main.js && node --check js/logic.js && node --check js/render.js && node --check js/i18n.js && node --check js/references.js && node --check sw.js"
+  }
+}
