@@ -1,0 +1,18 @@
+# macOS / editors
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node (the app has no dependencies, but just in case)
+node_modules/
+
+# Local material that must not be published (see NOTICE.md):
+# the ku PDF (not fully CC0), a spreadsheet of unknown origin, local scripts and test output
+local/
+*.pdf
